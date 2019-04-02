@@ -1,6 +1,4 @@
-<p align="center">
 <img src="images/logo_small.jpg">
-</p>
   
 - An ethereum based game to stop roosters from getting with chicks
 
