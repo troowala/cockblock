@@ -1,7 +1,3 @@
-# cockblock
-
-stop chickens from multiplying on ... THE BLOCKCHAIN !!!
-
 ![logo](images/logo_small.jpg)
 
 - An ethereum based game to stop roosters from getting with chicks
