@@ -1,5 +1,5 @@
 <p align="center">
-![logo](images/logo_small.jpg)
+<img src="images/logo_small.jpg">
 </p>
   
 - An ethereum based game to stop roosters from getting with chicks
