@@ -1,5 +1,7 @@
+<p align="center">
 ![logo](images/logo_small.jpg)
-
+</p>
+  
 - An ethereum based game to stop roosters from getting with chicks
 
 - Powered by Egg - the mother of all tokens with Store Of Life use case
